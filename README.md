@@ -8,4 +8,4 @@ Authors
 Gregory Gasteratos
 Ioannis Karydis
 
-The article is do be published in https://www.mdpi.com/journal/electronics
+The article has been submitted for potential publication in high I.F. journal and is currently awaiting review.
